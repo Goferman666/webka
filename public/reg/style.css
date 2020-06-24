@@ -60,7 +60,7 @@ label[for="reset"] { float: right; }
 input[type=radio]:checked + label { opacity: 1; }
 
 input[type=text],
-input[type=password] {
+input[type=password],input[type=email] {
   background: #fff;
   border: none;
   border-radius: 8px;

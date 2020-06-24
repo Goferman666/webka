@@ -19,3 +19,9 @@ Route::get('/news1', "ApiController@news1Action" );
 Route::get('/news2', "ApiController@news2Action" );
 Route::get('/news3', "ApiController@news3Action" );
 Route::get('/reger', "ApiController@regerAction" );
+Route::get('/regernew', "ApiController@regernewAction" );
+
+
+Route::get('/auth', "AuthController@auth" );
+Route::get('/logout', "AuthController@logout" );
+Route::get('/registration', "AuthController@registration" );

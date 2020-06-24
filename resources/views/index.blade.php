@@ -668,10 +668,19 @@
 					</div>
 				</aside><!-- .left-widget-area -->
 
+
 					<aside id="right-widget-area" class="right-widget-area" role="complementary" aria-label="Template Right">
+					<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://demo.themespiral.com/timesnews/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Поиск &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form></section>
 				<div class="theiaStickySidebar">
 
 					<section id="timesnews_list_category_posts-4" class="widget widget_list_category_posts">
+					
 		<div class="list-category-posts-half lcp-left">
 
 					<h2 class="widget-title">Погода</h2>

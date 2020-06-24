@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
 class ApiController extends Controller
@@ -13,7 +13,7 @@ class ApiController extends Controller
 
        public function newsAction()
     {
-        return view('news');
+        return view('news', ['news' => (new ArticleController())->show()]);
     }
 
        public function news1Action()
@@ -33,6 +33,10 @@ class ApiController extends Controller
 	 public function regerAction()
     {
         return view('reger');
+    }
+	 public function regernewAction()
+    {
+        return view('regernew');
     }
 	
 }

@@ -12,21 +12,23 @@
 </head>
 
 <body>
-  
-<form method="get" action="/auth" id="login">
-  <input checked="" id="signin" name="action" type="radio" value="signin">
-  <label for="signin">Войти</label>
+  <body>
+<form method="get" action="/registration" id="registration">
+  <input checked="" id="signup" name="action" type="radio" value="signin">
+  <label for="signup">Новый аккаунт</label>
  
  <div id="wrapper">
   
     <div id="arrow"></div>
     <input name="login" id="email" placeholder="Логин" type="text" required>
+	<input name="email_address" id="email" placeholder="Email" type="email" required>
     <input name="password" id="pass" placeholder="Пароль" type="password" required>
   </div>
   <button type="submit">
     <span>
       <br>
-      Войти
+      <br>
+      Заригестироваться
     </span>
   </button>
 </form>
@@ -39,5 +41,5 @@
 </body>
   
   
-
+</body>
 </html>

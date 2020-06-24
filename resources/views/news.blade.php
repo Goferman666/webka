@@ -1,6 +1,7 @@
 @extends('layouts.header')
 
 @section('content')
+	
     
 					<div class="flash-news-holder">
 						<div class="wrap">
@@ -507,88 +508,38 @@
 					<div class="theiaStickySidebar">
 
 						<section id="timesnews_list_category_posts-3" class="widget widget_list_category_posts">
+						
+						
+						
 		<div class="list-category-posts-half lcp-left">
 					<h2 class="widget-title">Интересное</h2>
 					<div class="list-category-posts-wrap">
 		
+		
+			@foreach($news as $news)
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/new-year-cleaning-up-after-the-worlds-largest-human-gathering/" title="«Две недели уже выстояли». Врач о работе в госпитале для больных коронавирусом"><img width="765" height="500" src="images/korona.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="" ><img width="765" height="500" src="{{$news -> img_url}}" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" />{{$news -> title}} </a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
-		<span class="cat-links">
-		
-			<a class="category-color-6" href="https://demo.SNEWS38.com/timesnews/category/asia/">Asia</a>
-		
-			<a class="category-color-31" href="https://demo.SNEWS38.com/timesnews/category/entertainment/">Entertainment</a>
-				</span>
+	
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/new-year-cleaning-up-after-the-worlds-largest-human-gathering/" title="«Две недели уже выстояли». Врач о работе в госпитале для больных коронавирусом">«Две недели уже выстояли». Врач о работе в госпитале для больных коронавирусом</a></h2>
+						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/new-year-cleaning-up-after-the-worlds-largest-human-gathering/" title="{{$news -> description}}">{{$news -> description}}</a></h2>
 						<div class="list-category-post-meta">
 							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/new-year-cleaning-up-after-the-worlds-largest-human-gathering/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T09:42:21+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
-								<div class="list-category-post">
-											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/this-the-worlds-most-eco-friendly-fruits/" title="Избирком Иркутской области запустил печать бюллетеней для голосования по поправкам в Конституцию"><img width="765" height="500" src="images/konst.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
-						 </div><!-- .list-category-post-thumbnail -->
-										<div class="list-category-post-content">
-						<div class="list-category-post-meta">
-							
-		<span class="cat-links">
-		
-			<a class="category-color-3" href="https://demo.SNEWS38.com/timesnews/category/africa/">Africa</a>
-		
-			<a class="category-color-31" href="https://demo.SNEWS38.com/timesnews/category/entertainment/">Entertainment</a>
-				</span>
-							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/this-the-worlds-most-eco-friendly-fruits/" title="Избирком Иркутской области запустил печать бюллетеней для голосования по поправкам в Конституцию">Избирком Иркутской области запустил печать бюллетеней для голосования по поправкам в Конституцию</a></h2>
-						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/this-the-worlds-most-eco-friendly-fruits/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T09:39:27+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
-					</div><!-- .list-category-post-content -->
-				</div><!-- .list-category-post -->
-								<div class="list-category-post">
-											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur/" title="Татьяну Эдельман назначили главой Правобережного округа"><img width="765" height="500" src="images/tatyana.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
-						 </div><!-- .list-category-post-thumbnail -->
-										<div class="list-category-post-content">
-						<div class="list-category-post-meta">
-							
-		<span class="cat-links">
-		
-			<a class="category-color-31" href="https://demo.SNEWS38.com/timesnews/category/entertainment/">Entertainment</a>
-		
-			<a class="category-color-10" href="https://demo.SNEWS38.com/timesnews/category/europe/">Europe</a>
-				</span>
-							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur/" title="Татьяну Эдельман назначили главой Правобережного округа">Татьяну Эдельман назначили главой Правобережного округа</a></h2>
-						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T09:35:59+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
-					</div><!-- .list-category-post-content -->
-				</div><!-- .list-category-post -->
-								<div class="list-category-post">
-											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum/" title="Мясо с антибиотиками из Алтайского края поставляли в детсады Братска"><img width="765" height="500" src="images/bratsk.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
-						 </div><!-- .list-category-post-thumbnail -->
-										<div class="list-category-post-content">
-						<div class="list-category-post-meta">
-							
-		<span class="cat-links">
-		
-			<a class="category-color-31" href="https://demo.SNEWS38.com/timesnews/category/entertainment/">Entertainment</a>
-		
-			<a class="category-color-16" href="https://demo.SNEWS38.com/timesnews/category/middle-east/">Middle East</a>
-				</span>
-							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum/" title="Мясо с антибиотиками из Алтайского края поставляли в детсады Братска">Мясо с антибиотиками из Алтайского края поставляли в детсады Братска</a></h2>
-						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T09:34:30+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
-					</div><!-- .list-category-post-content -->
-				</div><!-- .list-category-post -->
+				
+			@endforeach		
+								
+								
 							</div><!-- .list-category-posts-wrap -->
 		</div><!-- .list-category-posts-half -->
+		
+		
+		
 
 		<div class="list-category-posts-half lcp-right">
 						<h2 class="widget-title">Технологии</h2>
@@ -670,6 +621,13 @@
 				</aside><!-- .left-widget-area -->
 
 					<aside id="right-widget-area" class="right-widget-area" role="complementary" aria-label="Template Right">
+					<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Поиск &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form></section>
 				<div class="theiaStickySidebar">
 
 					<section id="timesnews_list_category_posts-4" class="widget widget_list_category_posts">

@@ -389,9 +389,14 @@ body.custom-background { background-image: url("wp-content/uploads/sites/10/2019
 
 									    <nav class="secondary-navigation" role="navigation" aria-label="Social Navigation">
         <ul class="secondary-menu">
-		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/reger">Профиль</a></li>
-		
-		
+		@if (!Auth::check())
+			
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/reger">Войти</a></li>
+	<li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179 category-color-15"><a href="/regernew">Регистрация |</a></li>
+		@else 
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="">Добро пожаловать</a></li>
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-20"><a href="/logout"> Выход | </a></li>
+		@endif
 </ul>    </nav><!-- .social-navigation -->
 
 
@@ -420,7 +425,7 @@ body.custom-background { background-image: url("wp-content/uploads/sites/10/2019
 						</div><!-- .header-brand-content -->
 					</div><!-- .wrap -->
 				</div><!-- .header-brand -->
-
+				
 	@yield('content')
      
 </body>
