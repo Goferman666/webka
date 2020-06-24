@@ -2,6 +2,15 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
+
+
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="/login-signup-modal-window/css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="/login-signup-modal-window/css/style.css"> <!-- Gem style -->
+	<script src="/login-signup-modal-window/js/modernizr.js"></script> <!-- Modernizr -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="/login-signup-modal-window/js/main.js"></script> <!-- Gem jQuery -->
 	
 
 		<script type="text/javascript">
@@ -361,21 +370,34 @@ body.custom-background { background-image: url("wp-content/uploads/sites/10/2019
     
 
 			<div class="main-header-brand">
-									<div class="secondary-nav-wrap">
+							<div class="secondary-nav-wrap">
 						<div class="wrap">
 							   <nav class="secondary-navigation" role="navigation" aria-label="Secondary Navigation">
         <button class="secondary-menu-toggle" aria-controls="primary-menu" aria-expanded="false">
             <span class="secondary-toggle-text">Menu</span>
             <span class="secondary-toggle-bar"></span>
         </button>
-        <ul id="primary-menu" class="secondary-menu"><li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/">Главная</a></li>
+        <ul id="primary-menu" class="secondary-menu">
+<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/">Главная</a></li>
 <li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-172 category-color-5"><a href="/news">Новости</a></li>
-<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-173 category-color-19"><a href="afisha.html">Афиша</a></li>
-<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174 category-color-20"><a href="pogoda.html">Погода</a></li>
-</ul>
-							
+<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-173 category-color-19"><a href="">Афиша</a></li>
+<li id="menu-item-174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-174 category-color-20"><a href="">Погода</a></li>
+
+
+</ul>    </nav><!-- .secondary-navigation -->       
+								<div class="header-social-menu">
+
+									    <nav class="secondary-navigation" role="navigation" aria-label="Social Navigation">
+        <ul class="secondary-menu">
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/reger">Профиль</a></li>
+		
+		
+</ul>    </nav><!-- .social-navigation -->
+
+
+								</div><!-- .header-social-menu -->
 													</div><!-- .wrap -->
-					</div><!-- .secondary-nav-wrap -->
+					</div><!-- .secondary-nav-wrap -->			
 				
 				<div class="header-brand" >
 					<div class="wrap">

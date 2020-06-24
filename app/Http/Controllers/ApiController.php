@@ -30,5 +30,9 @@ class ApiController extends Controller
     {
         return view('news3');
     }
+	 public function regerAction()
+    {
+        return view('reger');
+    }
 	
 }

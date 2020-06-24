@@ -18,3 +18,4 @@ Route::get('/news', "ApiController@newsAction" );
 Route::get('/news1', "ApiController@news1Action" );
 Route::get('/news2', "ApiController@news2Action" );
 Route::get('/news3', "ApiController@news3Action" );
+Route::get('/reger', "ApiController@regerAction" );
