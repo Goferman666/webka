@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en-US">
 <head>
@@ -378,6 +379,7 @@ body.custom-background { background-image: url("wp-content/uploads/sites/10/2019
             <span class="secondary-toggle-bar"></span>
         </button>
         <ul id="primary-menu" class="secondary-menu">
+		
 <li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/">Главная</a></li>
 <li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-172 category-color-5"><a href="/news">Новости</a></li>
 <li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-173 category-color-19"><a href="">Афиша</a></li>
@@ -388,14 +390,22 @@ body.custom-background { background-image: url("wp-content/uploads/sites/10/2019
 								<div class="header-social-menu">
 
 									    <nav class="secondary-navigation" role="navigation" aria-label="Social Navigation">
-        <ul class="secondary-menu">
+        <ul id="primary-menu" class="secondary-menu">
 		@if (!Auth::check())
 			
 		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="/reger">Войти</a></li>
-	<li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179 category-color-15"><a href="/regernew">Регистрация |</a></li>
+	<li id="menu-item-179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-179 category-color-16"><a href="/regernew">Регистрация</a></li>
+		<li id="menu-item-179" ><a href="#" title="Костыль=пасхалка">⠀</a></li>
 		@else 
-		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="">Добро пожаловать</a></li>
-		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-20"><a href="/logout"> Выход | </a></li>
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-15"><a href="">Добро пожаловать 
+
+
+	
+	
+	</a></li>
+		<li id="menu-item-171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-171 category-color-20"><a href="/logout"> Выход </a></li>
+		<li id="menu-item-179" ><a href="#" title="Костыль=пасхалка">⠀</a></li>
+		
 		@endif
 </ul>    </nav><!-- .social-navigation -->
 

@@ -20,6 +20,7 @@ Route::get('/news2', "ApiController@news2Action" );
 Route::get('/news3', "ApiController@news3Action" );
 Route::get('/reger', "ApiController@regerAction" );
 Route::get('/regernew', "ApiController@regernewAction" );
+Route::get('/search', "ApiController@search" );
 
 
 Route::get('/auth', "AuthController@auth" );

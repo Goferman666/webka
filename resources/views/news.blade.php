@@ -621,10 +621,10 @@
 				</aside><!-- .left-widget-area -->
 
 					<aside id="right-widget-area" class="right-widget-area" role="complementary" aria-label="Template Right">
-					<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="">
+					<section id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="/search">
 				<label>
 					<span class="screen-reader-text">Search for:</span>
-					<input type="search" class="search-field" placeholder="Поиск &hellip;" value="" name="s" />
+					<input type="search" class="search-field" placeholder="Поиск &hellip;" name="search_field" />
 				</label>
 				<input type="submit" class="search-submit" value="Поиск" />
 			</form></section>

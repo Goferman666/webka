@@ -38,5 +38,9 @@ class ApiController extends Controller
     {
         return view('regernew');
     }
+	public function search(request $request)
+	{
+		return view('news', ['news' => (new ArticleController())->search($request->search_field)]);
+	}
 	
 }
