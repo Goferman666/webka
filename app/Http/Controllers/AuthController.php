@@ -36,6 +36,8 @@ class AuthController extends Controller
 		if (is_null($user)){
 			 return "Неправильно";	
 		}
+		
+		Auth::login($user);
 		return redirect('/');
 	}
 }

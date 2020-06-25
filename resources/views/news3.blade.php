@@ -310,73 +310,71 @@
 
 			
 		<div class="copyright-area">
-			
 			<div class="wrap">
 										<nav class="footer-menu-container" role="navigation" aria-label="Footer Menu">
 
-							<ul class="footer-menu"><li id="menu-item-376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-376"><a href="index.html#">Иркутск</a>
+							<ul class="footer-menu"><li id="menu-item-376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-376"><a href="#">Иркутск</a>
 <ul class="sub-menu">
-	<li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-340 category-color-3"><a href="https://demo.SNEWS38.com/timesnews/category/africa/">Ангарск</a></li>
-	<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-343 category-color-6"><a href="https://demo.SNEWS38.com/timesnews/category/asia/">Шелехов</a></li>
-	<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349 category-color-10"><a href="https://demo.SNEWS38.com/timesnews/category/europe/">Братск</a></li>
-	<li id="menu-item-361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-361 category-color-16"><a href="https://demo.SNEWS38.com/timesnews/category/middle-east/">Тулун</a></li>
-	<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356 category-color-32"><a href="https://demo.SNEWS38.com/timesnews/category/global/">Черемхово</a></li>
-	<li id="menu-item-371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-371 category-color-22"><a href="https://demo.SNEWS38.com/timesnews/category/война/">Нижнеудинск</a></li>
+	<li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-340 category-color-3"><a href="#">Ангарск</a></li>
+	<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-343 category-color-6"><a href="#">Шелехов</a></li>
+	<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349 category-color-10"><a href="#">Братск</a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-361 category-color-16"><a href="#">Тулун</a></li>
+	<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356 category-color-32"><a href="#">Черемхово</a></li>
+	<li id="menu-item-371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-371 category-color-22"><a href="#">Нижнеудинск</a></li>
 </ul>
 </li>
-<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-377"><a href="index.html#">Бизнес</a>
+<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-377"><a href="#">Бизнес</a>
 <ul class="sub-menu">
-	<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346 category-color-9"><a href="https://demo.SNEWS38.com/timesnews/category/classify/">Дела</a></li>
-	<li id="menu-item-345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-345 category-color-8"><a href="https://demo.SNEWS38.com/timesnews/category/Бизнес/">Мероприятия</a></li>
-	<li id="menu-item-360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360 category-color-41"><a href="https://demo.SNEWS38.com/timesnews/category/markets/">Будущее</a></li>
-	<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358 category-color-14"><a href="https://demo.SNEWS38.com/timesnews/category/life/">Жизнь</a></li>
-	<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-350 category-color-43"><a href="https://demo.SNEWS38.com/timesnews/category/fashion/">Мода</a></li>
-	<li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351 category-color-11"><a href="https://demo.SNEWS38.com/timesnews/category/горячее/">Горячее</a></li>
+	<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346 category-color-9"><a href="#">Дела</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-345 category-color-8"><a href="#">Мероприятия</a></li>
+	<li id="menu-item-360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360 category-color-41"><a href="#">Будущее</a></li>
+	<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358 category-color-14"><a href="#">Жизнь</a></li>
+	<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-350 category-color-43"><a href="#">Мода</a></li>
+	<li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351 category-color-11"><a href="#">Горячее</a></li>
 </ul>
 </li>
-<li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-378"><a href="index.html#">Здоровье</a>
+<li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-378"><a href="#">Здоровье</a>
 <ul class="sub-menu">
-	<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352 category-color-42"><a href="https://demo.SNEWS38.com/timesnews/category/food/">Еда</a></li>
-	<li id="menu-item-357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-357 category-color-35"><a href="https://demo.SNEWS38.com/timesnews/category/health/">Жизнь</a></li>
-	<li id="menu-item-372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-372 category-color-37"><a href="https://demo.SNEWS38.com/timesnews/category/weather/">Погода</a></li>
-	<li id="menu-item-369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-369 category-color-38"><a href="https://demo.SNEWS38.com/timesnews/category/travel/">Путешествия</a></li>
-	<li id="menu-item-362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362 category-color-17"><a href="https://demo.SNEWS38.com/timesnews/category/nature/">Природа</a></li>
-	<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354 category-color-13"><a href="https://demo.SNEWS38.com/timesnews/category/флора/">Животные</a></li>
+	<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352 category-color-42"><a href="#">Еда</a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-357 category-color-35"><a href="#">Жизнь</a></li>
+	<li id="menu-item-372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-372 category-color-37"><a href="#">Погода</a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-369 category-color-38"><a href="#">Путешествия</a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362 category-color-17"><a href="#">Природа</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354 category-color-13"><a href="#">Животные</a></li>
 </ul>
 </li>
-<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-379"><a href="index.html#">Развлечения</a>
+<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-379"><a href="#">Развлечения</a>
 <ul class="sub-menu">
-	<li id="menu-item-363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-363 category-color-39"><a href="https://demo.SNEWS38.com/timesnews/category/news-tv/">Афиша</a></li>
-	<li id="menu-item-359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359 category-color-15"><a href="https://demo.SNEWS38.com/timesnews/category/local-news/">Местное</a></li>
-	<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-348 category-color-31"><a href="https://demo.SNEWS38.com/timesnews/category/entertainment/">Развлечения</a></li>
-	<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347 category-color-36"><a href="https://demo.SNEWS38.com/timesnews/category/culture/">Культура</a></li>
-	<li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-342 category-color-5"><a href="https://demo.SNEWS38.com/timesnews/category/arts-culture/">Исскуство</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-363 category-color-39"><a href="#">Афиша</a></li>
+	<li id="menu-item-359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359 category-color-15"><a href="#">Местное</a></li>
+	<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-348 category-color-31"><a href="#">Развлечения</a></li>
+	<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347 category-color-36"><a href="#">Культура</a></li>
+	<li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-342 category-color-5"><a href="#">Исскуство</a></li>
 </ul>
 </li>
-<li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-380"><a href="index.html#">Спорт</a>
+<li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-380"><a href="#">Спорт</a>
 <ul class="sub-menu">
-	<li id="menu-item-375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-375 category-color-24"><a href="https://demo.SNEWS38.com/timesnews/category/x-games/">Бокс</a></li>
-	<li id="menu-item-368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368 category-color-21"><a href="https://demo.SNEWS38.com/timesnews/category/Плавание/">Плавание</a></li>
-	<li id="menu-item-366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-366 category-color-19"><a href="https://demo.SNEWS38.com/timesnews/category/Спорт/">Спорт</a></li>
-	<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353 category-color-12"><a href="https://demo.SNEWS38.com/timesnews/category/Футбол/">Футбол</a></li>
-	<li id="menu-item-344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-344 category-color-7"><a href="https://demo.SNEWS38.com/timesnews/category/Атлетика/">Атлетика</a></li>
-	<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339 category-color-2"><a href="https://demo.SNEWS38.com/timesnews/category/adventures/">Баскетбол</a></li>
+	<li id="menu-item-375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-375 category-color-24"><a href="#">Бокс</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368 category-color-21"><a href="#">Плавание</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-366 category-color-19"><a href="#">Спорт</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353 category-color-12"><a href="#">Футбол</a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-344 category-color-7"><a href="#">Атлетика</a></li>
+	<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339 category-color-2"><a href="#">Баскетбол</a></li>
 </ul>
 </li>
-<li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381"><a href="index.html#">Технологии</a>
+<li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381"><a href="#">Технологии</a>
 <ul class="sub-menu">
-	<li id="menu-item-364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-364 category-color-18"><a href="https://demo.SNEWS38.com/timesnews/category/science/">Наука</a></li>
-	<li id="menu-item-373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-373 category-color-33"><a href="https://demo.SNEWS38.com/timesnews/category/worklife/">Разработки</a></li>
-	<li id="menu-item-374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-374 category-color-23"><a href="https://demo.SNEWS38.com/timesnews/category/world/">Мир</a></li>
-	<li id="menu-item-365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-365 category-color-40"><a href="https://demo.SNEWS38.com/timesnews/category/special-reports/">Изобретения</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-364 category-color-18"><a href="#">Наука</a></li>
+	<li id="menu-item-373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-373 category-color-33"><a href="#">Разработки</a></li>
+	<li id="menu-item-374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-374 category-color-23"><a href="#">Мир</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-365 category-color-40"><a href="#">Изобретения</a></li>
 </ul>
 </li>
 </ul>
 						</nav>
 										
-												
+											
 									</div><!-- .wrap -->
-			
 		</div><!-- .copyright-area -->
 	</footer><!-- #colophon -->
 			<button href="#" class="back-to-top" type="button"><i class="fas fa-long-arrow-alt-up"></i>Go Top</button>
@@ -387,18 +385,18 @@
 var wpcf7 = {"apiSettings":{"root":"https:\/\/demo.themespiral.com\/timesnews\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='../../../../wp-content/plugins/contact-form-7/includes/js/scripts.js@ver=5.1.9'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/js/navigation.min.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/js/skip-link-focus-fix.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/sticky-sidebar/ResizeSensor.min.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/sticky-sidebar/theia-sticky-sidebar.min.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/slick/slick.min.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/slick/slick-settings.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/sticky/jquery.sticky.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/sticky/sticky-setting.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/marquee/jquery.marquee.min.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-content/themes/timesnews/assets/library/marquee/marquee-settings.js@ver=5.4.1'></script>
-<script type='text/javascript' src='../../../../wp-includes/js/wp-embed.min.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js@ver=5.1.9'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/js/navigation.min.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/js/skip-link-focus-fix.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/sticky-sidebar/ResizeSensor.min.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/sticky-sidebar/theia-sticky-sidebar.min.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/slick/slick.min.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/slick/slick-settings.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/sticky/jquery.sticky.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/sticky/sticky-setting.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/marquee/jquery.marquee.min.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-content/themes/timesnews/assets/library/marquee/marquee-settings.js@ver=5.4.1'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=5.4.1'></script>
 
 </body>
 </html>

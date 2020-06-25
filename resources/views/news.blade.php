@@ -14,42 +14,42 @@
                 <div class="marquee">
                             <artical class="news-post-title">
                                             <span class="news-post-img">
-                            <a href="https://demo.themespiral.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" title="В Чунском районе грузовой поезд сбил медведицу"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+                            <a href="#" title="В Чунском районе грузовой поезд сбил медведицу"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-17-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
                          </span>
                      
-                    <h3><a href="https://demo.themespiral.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" title="В Чунском районе грузовой поезд сбил медведицу">В Чунском районе грузовой поезд сбил медведицу</a></h3>
+                    <h3><a href="#" title="В Чунском районе грузовой поезд сбил медведицу">В Чунском районе грузовой поезд сбил медведицу</a></h3>
                 </artical>
 
                             <artical class="news-post-title">
                                             <span class="news-post-img">
-                            <a href="https://demo.themespiral.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" title="Пассажир погиб по вине пьяного водителя в Тулуне"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+                            <a href="#" title="Пассажир погиб по вине пьяного водителя в Тулуне"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-10-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
                          </span>
                      
-                    <h3><a href="https://demo.themespiral.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" title="Пассажир погиб по вине пьяного водителя в Тулуне">Пассажир погиб по вине пьяного водителя в Тулуне</a></h3>
+                    <h3><a href="#" title="Пассажир погиб по вине пьяного водителя в Тулуне">Пассажир погиб по вине пьяного водителя в Тулуне</a></h3>
                 </artical>
 
                             <artical class="news-post-title">
                                             <span class="news-post-img">
-                            <a href="https://demo.themespiral.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" title="Число умерших от COVID-19 в Иркутской области увеличилось на два человека"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+                            <a href="#" title="Число умерших от COVID-19 в Иркутской области увеличилось на два человека"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
                          </span>
                      
-                    <h3><a href="https://demo.themespiral.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" title="Число умерших от COVID-19 в Иркутской области увеличилось на два человека">Число умерших от COVID-19 в Иркутской области увеличилось на два человека</a></h3>
+                    <h3><a href="#" title="Число умерших от COVID-19 в Иркутской области увеличилось на два человека">Число умерших от COVID-19 в Иркутской области увеличилось на два человека</a></h3>
                 </artical>
 
                             <artical class="news-post-title">
                                             <span class="news-post-img">
-                            <a href="https://demo.themespiral.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" title="Горячая линия по выплатам на детей от трех до семи лет открылась в Иркутской области"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
+                            <a href="#" title="Горячая линия по выплатам на детей от трех до семи лет открылась в Иркутской области"><img width="1200" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31.jpg 1200w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31-300x200.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31-768x512.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-31-1024x683.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></a>
                          </span>
                      
-                    <h3><a href="https://demo.themespiral.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" title="Горячая линия по выплатам на детей от трех до семи лет открылась в Иркутской области">Горячая линия по выплатам на детей от трех до семи лет открылась в Иркутской области</a></h3>
+                    <h3><a href="#" title="Горячая линия по выплатам на детей от трех до семи лет открылась в Иркутской области">Горячая линия по выплатам на детей от трех до семи лет открылась в Иркутской области</a></h3>
                 </artical>
 
                             <artical class="news-post-title">
                                             <span class="news-post-img">
-                            <a href="https://demo.themespiral.com/timesnews/2019/09/04/tech-tent-inside-techs-trade-war/" title="Александровский централ планируют передать в льготную аренду за один рубль"><img width="1192" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33.jpg 1192w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33-300x201.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33-768x515.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33-1024x687.jpg 1024w" sizes="(max-width: 1192px) 100vw, 1192px" /></a>
+                            <a href="#" title="Александровский централ планируют передать в льготную аренду за один рубль"><img width="1192" height="800" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33.jpg 1192w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33-300x201.jpg 300w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33-768x515.jpg 768w, https://demo.themespiral.com/timesnews/wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-33-1024x687.jpg 1024w" sizes="(max-width: 1192px) 100vw, 1192px" /></a>
                          </span>
                      
-                    <h3><a href="https://demo.themespiral.com/timesnews/2019/09/04/tech-tent-inside-techs-trade-war/" title="Александровский централ планируют передать в льготную аренду за один рубль">Александровский централ планируют передать в льготную аренду за один рубль</a></h3>
+                    <h3><a href="#" title="Александровский централ планируют передать в льготную аренду за один рубль">Александровский централ планируют передать в льготную аренду за один рубль</a></h3>
                 </artical>
 
                     </div><!-- .marquee -->
@@ -91,12 +91,12 @@
                                             
 		<span class="cat-links">
 		
-			<a class="category-color-14" href="https://demo.themespiral.com/timesnews/category/life/">Экономика</a>
+			<a class="category-color-14" href="#">Экономика</a>
 		
-			<a class="category-color-23" href="https://demo.themespiral.com/timesnews/category/world/">Мир</a>
+			<a class="category-color-23" href="#">Мир</a>
 				</span>
-	<span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/07/military-gets-new-respect-with-world-aid/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T10:09:23+00:00">Июня 5, 2020</time></a></span>                                        </div><!-- .slide-meta -->
-                                        <h2 class="slide-title"><a href="demo.themespiral.com\timesnews\2019\04\07\military-gets-new-respect-with-world-aid/1news.html" alt="The wall holding back a desert">Иркутск</a></h2>
+	<span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T10:09:23+00:00">Июня 5, 2020</time></a></span>                                        </div><!-- .slide-meta -->
+                                        <h2 class="slide-title"><a href="/news1" alt="Иркутск">Иркутск</a></h2>
                                    
                                         <div class="slide-text">
                                             <p>В Иркутской области подготовили проект стратегии социально-экономического развития региона до 2036 года <a href="/news1" class="more-link">читать далее</a></p>
@@ -118,12 +118,12 @@
                                             
 		<span class="cat-links">
 		
-			<a class="category-color-17" href="https://demo.themespiral.com/timesnews/category/nature/">Политика</a>
+			<a class="category-color-17" href="#">Политика</a>
 		
-			<a class="category-color-23" href="https://demo.themespiral.com/timesnews/category/world/">Мир</a>
+			<a class="category-color-23" href="#">Мир</a>
 				</span>
-	<span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/07/volcanic-eruptions-reduce-flow-of-major-rivers-new-study-shows/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T10:03:55+00:00">Май 29, 2020</time></a></span>                                        </div><!-- .slide-meta -->
-                                        <h2 class="slide-title"><a href="demo.themespiral.com\timesnews\2019\04\07\military-gets-new-respect-with-world-aid/3news.html" alt="What does being ‘fluent’ really mean?">Что ждет россиян в июне? Обзор изменений законов</a></h2>
+	<span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T10:03:55+00:00">Май 29, 2020</time></a></span>                                        </div><!-- .slide-meta -->
+                                        <h2 class="slide-title"><a href="/news3" alt="Что ждет россиян в июне? Обзор изменений законов">Что ждет россиян в июне? Обзор изменений законов</a></h2>
                                    
                                         <div class="slide-text">
                                             <p>В июне 2020 года начали действовать несколько законов, которые повлияют на жизнь россиян. Изменения коснутся минимального размера пособия по уходу за ребенком, безопасности детского отдыха, банковского роуминга и производства российского вина.<a href="/news3" class="more-link">читать далее</a></p>
@@ -145,12 +145,12 @@
                                             
 		<span class="cat-links">
 		
-			<a class="category-color-18" href="https://demo.themespiral.com/timesnews/category/science/">Наука</a>
+			<a class="category-color-18" href="#">Наука</a>
 		
-			<a class="category-color-23" href="https://demo.themespiral.com/timesnews/category/world/">Мир</a>
+			<a class="category-color-23" href="#">Мир</a>
 				</span>
-	<span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/07/old-technology-successfully-reduce/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T10:01:09+00:00">Июня 1, 2020</time></a></span>                                        </div><!-- .slide-meta -->
-                                        <h2 class="slide-title"><a href="demo.themespiral.com\timesnews\2019\04\07\military-gets-new-respect-with-world-aid/2news.html" alt="Old Technology Successfully Reduce">Минобороны отобрало добровольцев для испытаний вакцины от COVID-19</a></h2>
+	<span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T10:01:09+00:00">Июня 1, 2020</time></a></span>                                        </div><!-- .slide-meta -->
+                                        <h2 class="slide-title"><a href="/news2" alt="Минобороны отобрало добровольцев для испытаний вакцины от COVID-19">Минобороны отобрало добровольцев для испытаний вакцины от COVID-19</a></h2>
                                    
                                         <div class="slide-text">
                                             <p>завершён отбор добровольцев для проведения клинических испытаний отечественной вакцины от коронавирусной инфекции, сообщили в пресс-службе ведомства. Это 50 военнослужащих, среди которых пять женщин<a href="/news2" class="more-link">читать далее</a></p>
@@ -179,63 +179,63 @@
 							
 		<span class="cat-links">
 		
-			<a class="category-color-15" href="https://demo.themespiral.com/timesnews/category/local-news/">Местные новости</a>
+			<a class="category-color-15" href="#">Местные новости</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/how-to-stay-safe-in-and-around-water/" title="Мэр Саянска">Мэр Саянска сообщил о поддельных справках об отсутствии COVID-19 у некоторых вахтовиков</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Мэр Саянска">Мэр Саянска сообщил о поддельных справках об отсутствии COVID-19 у некоторых вахтовиков</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/how-to-stay-safe-in-and-around-water/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:23:59+00:00">Май 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:23:59+00:00">Май 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/olympic-protest-runner-finally-reвойнаded/" title="Депутаты Иркутска обсудили перспективы развития поселков Кирова и Горького"><img width="765" height="500" src="images/dep.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Депутаты Иркутска обсудили перспективы развития поселков Кирова и Горького"><img width="765" height="500" src="images/dep.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-15" href="https://demo.themespiral.com/timesnews/category/local-news/">Местные новости</a>
+			<a class="category-color-15" href="#">Местные новости</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/olympic-protest-runner-finally-reвойнаded/" title="Депутаты Иркутска обсудили перспективы развития поселков Кирова и Горького">Депутаты Иркутска обсудили перспективы развития поселка Кирова</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Депутаты Иркутска обсудили перспективы развития поселков Кирова и Горького">Депутаты Иркутска обсудили перспективы развития поселка Кирова</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/olympic-protest-runner-finally-reвойнаded/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:18:45+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:18:45+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/hero-digs-road-by-hand-for-villagers/" title="Три тысячи семей из нашей области указали неверные реквизиты для получения выплат"><img width="765" height="500" src="images/cards.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Три тысячи семей из нашей области указали неверные реквизиты для получения выплат"><img width="765" height="500" src="images/cards.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-15" href="https://demo.themespiral.com/timesnews/category/local-news/">Местные новости</a>
+			<a class="category-color-15" href="#">Местные новости</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/hero-digs-road-by-hand-for-villagers/" title="Три тысячи семей из нашей области указали неверные реквизиты для получения выплат">Три тысячи семей указали неверные реквизиты для получения выплат</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Три тысячи семей из нашей области указали неверные реквизиты для получения выплат">Три тысячи семей указали неверные реквизиты для получения выплат</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/hero-digs-road-by-hand-for-villagers/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:10:26+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:10:26+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/does-drinking-milk-make-stronger-bones/" title="Жители двух улиц Иркутска остались без электроснабжения из-за ДТП"><img width="765" height="500" src="images/dtp.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Жители двух улиц Иркутска остались без электроснабжения из-за ДТП"><img width="765" height="500" src="images/dtp.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-15" href="https://demo.themespiral.com/timesnews/category/local-news/">Местные новости</a>
+			<a class="category-color-15" href="#">Местные новости</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/does-drinking-milk-make-stronger-bones/" title="Жители двух улиц Иркутска остались без электроснабжения из-за ДТП">Жители двух улиц Иркутска остались без электроснабжения из-за ДТП</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Жители двух улиц Иркутска остались без электроснабжения из-за ДТП">Жители двух улиц Иркутска остались без электроснабжения из-за ДТП</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/does-drinking-milk-make-stronger-bones/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T06:57:21+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T06:57:21+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 							</div><!-- .list-category-posts-wrap -->
@@ -247,70 +247,70 @@
 		
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/how-you-can-think-yourself-thin/" title="Фотоконкурс «Иркутск глазами читателей»"><img width="765" height="500" src="images/irk.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Фотоконкурс «Иркутск глазами читателей»"><img width="765" height="500" src="images/irk.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-5" href="https://demo.themespiral.com/timesnews/category/arts-culture/">Исскуство</a>
+			<a class="category-color-5" href="#">Исскуство</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/how-you-can-think-yourself-thin/" title="Фотоконкурс «Иркутск глазами читателей»">Фотоконкурс «Иркутск глазами читателей»</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Фотоконкурс «Иркутск глазами читателей»">Фотоконкурс «Иркутск глазами читателей»</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/how-you-can-think-yourself-thin/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:37:35+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:37:35+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/book-bank-to-close-the-local-library/" title="Иркутск и иркутяне: подборка фотографий с 2013 года"><img width="765" height="500" src="images/irk2.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Иркутск и иркутяне: подборка фотографий с 2013 года"><img width="765" height="500" src="images/irk2.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-5" href="https://demo.themespiral.com/timesnews/category/arts-culture/">Исскуство</a>
+			<a class="category-color-5" href="#">Исскуство</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/book-bank-to-close-the-local-library/" title="Иркутск и иркутяне: подборка фотографий с 2013 года ">Иркутск и иркутяне: подборка фотографий с 2013 года </a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Иркутск и иркутяне: подборка фотографий с 2013 года ">Иркутск и иркутяне: подборка фотографий с 2013 года </a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/book-bank-to-close-the-local-library/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:34:35+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:34:35+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/first-ever-black-hole-image-released/" title="Фильмы про необычные школы"><img width="765" height="500" src="images/potter.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Фильмы про необычные школы"><img width="765" height="500" src="images/potter.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-5" href="https://demo.themespiral.com/timesnews/category/arts-culture/">Исскуство</a>
+			<a class="category-color-5" href="#">Исскуство</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/first-ever-black-hole-image-released/" title="Фильмы про необычные школы">Фильмы про необычные школы</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Фильмы про необычные школы">Фильмы про необычные школы</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/first-ever-black-hole-image-released/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:31:19+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:31:19+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/hundreds-set-off-on-new-migrant-caravan/" title="Отличите ли вы портрет от натюрморта?"><img width="765" height="500" src="images/nat.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Отличите ли вы портрет от натюрморта?"><img width="765" height="500" src="images/nat.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-5" href="https://demo.themespiral.com/timesnews/category/arts-culture/">Исскуство</a>
+			<a class="category-color-5" href="#">Исскуство</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/hundreds-set-off-on-new-migrant-caravan/" title="Отличите ли вы портрет от натюрморта?">Отличите ли вы портрет от натюрморта?</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Отличите ли вы портрет от натюрморта?">Отличите ли вы портрет от натюрморта?</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/hundreds-set-off-on-new-migrant-caravan/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:28:45+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:28:45+00:00">Мая 25, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 							</div><!-- .list-category-posts-wrap -->
@@ -322,84 +322,84 @@
 						<div class="category-slide-inner">
 				<div class="category-slide-post">
 											<div class="category-slide-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/is-this-the-fastest-seven-year-old-in-the-world/" title="Представлена обновленная система отбора на Олимпийские игры для легкоатлетов"><img width="1200" height="720" src="images/at.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
+							<a href="#" title="Представлена обновленная система отбора на Олимпийские игры для легкоатлетов"><img width="1200" height="720" src="images/at.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
 						 </div><!-- .category-slide-thumbnail -->
 										<div class="category-slide-post-content">
 						<div class="category-slide-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-7" href="https://demo.themespiral.com/timesnews/category/Атлетика/">Атлетика</a>
+			<a class="category-color-7" href="#">Атлетика</a>
 		
-			<a class="category-color-19" href="https://demo.themespiral.com/timesnews/category/Спорт/">Спорт</a>
+			<a class="category-color-19" href="#">Спорт</a>
 				</span>
 							</div><!-- .category-slide-meta -->
-						<h2 class="category-slide-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/is-this-the-fastest-seven-year-old-in-the-world/" title="Представлена обновленная система отбора на Олимпийские игры для легкоатлетов">Представлена обновленная система отбора на Олимпийские игры для легкоатлетов</a></h2>
+						<h2 class="category-slide-post-title"><a href="#" title="Представлена обновленная система отбора на Олимпийские игры для легкоатлетов">Представлена обновленная система отбора на Олимпийские игры для легкоатлетов</a></h2>
 						<div class="category-slide-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/is-this-the-fastest-seven-year-old-in-the-world/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:07:21+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:07:21+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
 					</div><!-- .category-slide-post-content -->
 				</div><!-- .category-slide-post -->
 			</div><!-- .category-slide-inner -->
 						<div class="category-slide-inner">
 				<div class="category-slide-post">
 											<div class="category-slide-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/catch-up-world-cross-country-championships/" title="Чемпионат мира по плаванию на короткой воде перенесен на 2021 год"><img width="1200" height="720" src="images/swim.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
+							<a href="#" title="Чемпионат мира по плаванию на короткой воде перенесен на 2021 год"><img width="1200" height="720" src="images/swim.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
 						 </div><!-- .category-slide-thumbnail -->
 										<div class="category-slide-post-content">
 						<div class="category-slide-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-19" href="https://demo.themespiral.com/timesnews/category/Спорт/">Спорт</a>
+			<a class="category-color-19" href="#">Спорт</a>
 		
-			<a class="category-color-21" href="https://demo.themespiral.com/timesnews/category/Плавание/">Плавание</a>
+			<a class="category-color-21" href="#">Плавание</a>
 				</span>
 							</div><!-- .category-slide-meta -->
-						<h2 class="category-slide-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/catch-up-world-cross-country-championships/" title="Чемпионат мира по плаванию на короткой воде перенесен на 2021 год">Чемпионат мира по плаванию на короткой воде перенесен на 2021 год</a></h2>
+						<h2 class="category-slide-post-title"><a href="#" title="Чемпионат мира по плаванию на короткой воде перенесен на 2021 год">Чемпионат мира по плаванию на короткой воде перенесен на 2021 год</a></h2>
 						<div class="category-slide-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/catch-up-world-cross-country-championships/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:04:05+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:04:05+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
 					</div><!-- .category-slide-post-content -->
 				</div><!-- .category-slide-post -->
 			</div><!-- .category-slide-inner -->
 						<div class="category-slide-inner">
 				<div class="category-slide-post">
 											<div class="category-slide-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/incredible-is-this-the-luckiest-penalty-youll-ever-see/" title="Роналду возглавил список спортсменов, заработавших больше всего в Instagram во время карантина"><img width="923" height="720" src="images/ron.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
+							<a href="#" title="Роналду возглавил список спортсменов, заработавших больше всего в Instagram во время карантина"><img width="923" height="720" src="images/ron.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
 						 </div><!-- .category-slide-thumbnail -->
 										<div class="category-slide-post-content">
 						<div class="category-slide-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-12" href="https://demo.themespiral.com/timesnews/category/Футбол/">Футбол</a>
+			<a class="category-color-12" href="#">Футбол</a>
 		
-			<a class="category-color-19" href="https://demo.themespiral.com/timesnews/category/Спорт/">Спорт</a>
+			<a class="category-color-19" href="#">Спорт</a>
 				</span>
 							</div><!-- .category-slide-meta -->
-						<h2 class="category-slide-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/incredible-is-this-the-luckiest-penalty-youll-ever-see/" title="Роналду возглавил список спортсменов, заработавших больше всего в Instagram во время карантина">Роналду возглавил список спортсменов, заработавших больше всего в Instagram во время карантина</a></h2>
+						<h2 class="category-slide-post-title"><a href="#" title="Роналду возглавил список спортсменов, заработавших больше всего в Instagram во время карантина">Роналду возглавил список спортсменов, заработавших больше всего в Instagram во время карантина</a></h2>
 						<div class="category-slide-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/incredible-is-this-the-luckiest-penalty-youll-ever-see/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:56:37+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:56:37+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
 					</div><!-- .category-slide-post-content -->
 				</div><!-- .category-slide-post -->
 			</div><!-- .category-slide-inner -->
 						<div class="category-slide-inner">
 				<div class="category-slide-post">
 											<div class="category-slide-thumbnail">
-							<a href="https://demo.themespiral.com/timesnews/2019/04/11/woods-has-belief-in-15th-major-win/" title="Тайсон Фьюри: «Хочу в этом году побить несколько бездомных. Джошуа, Уайлдера, Уайта и всех остальных»"><img width="1200" height="720" src="images/boks.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
+							<a href="#" title="Тайсон Фьюри: «Хочу в этом году побить несколько бездомных. Джошуа, Уайлдера, Уайта и всех остальных»"><img width="1200" height="720" src="images/boks.jpg" class="attachment-timesnews-main-banner size-timesnews-main-banner wp-post-image" alt="" /></a>
 						 </div><!-- .category-slide-thumbnail -->
 										<div class="category-slide-post-content">
 						<div class="category-slide-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-19" href="https://demo.themespiral.com/timesnews/category/Спорт/">Спорт</a>
+			<a class="category-color-19" href="#">Спорт</a>
 		
-			<a class="category-color-24" href="https://demo.themespiral.com/timesnews/category/x-games/">БОКС</a>
+			<a class="category-color-24" href="#">БОКС</a>
 				</span>
 							</div><!-- .category-slide-meta -->
-						<h2 class="category-slide-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/woods-has-belief-in-15th-major-win/" title="Тайсон Фьюри: «Хочу в этом году побить несколько бездомных. Джошуа, Уайлдера, Уайта и всех остальных»">Тайсон Фьюри: «Хочу в этом году побить несколько бездомных. Джошуа, Уайлдера, Уайта и всех остальных»</a></h2>
+						<h2 class="category-slide-post-title"><a href="#" title="Тайсон Фьюри: «Хочу в этом году побить несколько бездомных. Джошуа, Уайлдера, Уайта и всех остальных»">Тайсон Фьюри: «Хочу в этом году побить несколько бездомных. Джошуа, Уайлдера, Уайта и всех остальных»</a></h2>
 						<div class="category-slide-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/woods-has-belief-in-15th-major-win/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:55:09+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T07:55:09+00:00">Мая 25, 2020</time></a></span>						</div><!-- .category-slide-meta -->
 					</div><!-- .category-slide-post-content -->
 				</div><!-- .category-slide-post -->
 			</div><!-- .category-slide-inner -->
@@ -410,92 +410,92 @@
 		
 						<div class="blog-category-post">
 									<div class="blog-category-post-thumbnail">
-						<a href="https://demo.themespiral.com/timesnews/2019/04/11/deadly-горячее-hits-kangkok-shopping-complex/" title="95 новых случаев COVID-19 подтвердили в Иркутской области"><img width="765" height="500" src="images/virus.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+						<a href="#" title="95 новых случаев COVID-19 подтвердили в Иркутской области"><img width="765" height="500" src="images/virus.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 					 </div><!-- .blog-category-post-thumbnail -->
 								<div class="blog-category-post-content">
 					<div class="blog-category-post-meta">
 						
 		<span class="cat-links">
 		
-			<a class="category-color-11" href="https://demo.themespiral.com/timesnews/category/горячее/">горячее</a>
+			<a class="category-color-11" href="#">горячее</a>
 		
-			<a class="category-color-20" href="https://demo.themespiral.com/timesnews/category/Статьи/">Статьи</a>
+			<a class="category-color-20" href="#">Статьи</a>
 				</span>
 						</div><!-- .blog-category-post-meta -->
-					<h2 class="blog-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/deadly-горячее-hits-kangkok-shopping-complex/" title="95 новых случаев COVID-19 подтвердили в Иркутской области">95 новых случаев COVID-19 подтвердили в Иркутской области</a></h2>
+					<h2 class="blog-category-post-title"><a href="#" title="95 новых случаев COVID-19 подтвердили в Иркутской области">95 новых случаев COVID-19 подтвердили в Иркутской области</a></h2>
 					<div class="blog-category-post-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/deadly-горячее-hits-kangkok-shopping-complex/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:55:26+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:55:26+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
 					<div class="blog-category-text-content">
-						<p> Общее число заразившихся в регионе 2309. И уже по этому показателю Иркутская область стремительно приближается к лидерам в Сибири — Красноярскому краю и Новосибирску. Ситуация достаточно сложная. <a href="https://demo.themespiral.com/timesnews/2019/04/11/deadly-горячее-hits-kangkok-shopping-complex/" class="more-link">читать далее</a></p>
+						<p> Общее число заразившихся в регионе 2309. И уже по этому показателю Иркутская область стремительно приближается к лидерам в Сибири — Красноярскому краю и Новосибирску. Ситуация достаточно сложная. <a href="#" class="more-link">читать далее</a></p>
 						
 					</div><!-- .blog-category-text-content -->
 				</div><!-- .list-category-post-content -->
 			</div><!-- .list-category-post -->
 						<div class="blog-category-post">
 									<div class="blog-category-post-thumbnail">
-						<a href="https://demo.themespiral.com/timesnews/2019/04/11/the-country-waits-as-coup-rumours-grow/" title="Семиклассница спасла маму и незнакомого парня после падения автобуса с моста"><img width="765" height="500" src="images/7kl.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+						<a href="#" title="Семиклассница спасла маму и незнакомого парня после падения автобуса с моста"><img width="765" height="500" src="images/7kl.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 					 </div><!-- .blog-category-post-thumbnail -->
 								<div class="blog-category-post-content">
 					<div class="blog-category-post-meta">
 						
 		<span class="cat-links">
 		
-			<a class="category-color-20" href="https://demo.themespiral.com/timesnews/category/Статьи/">Статьи</a>
+			<a class="category-color-20" href="#">Статьи</a>
 		
-			<a class="category-color-22" href="https://demo.themespiral.com/timesnews/category/война/">Общество</a>
+			<a class="category-color-22" href="#">Общество</a>
 				</span>
 						</div><!-- .blog-category-post-meta -->
-					<h2 class="blog-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/the-country-waits-as-coup-rumours-grow/" title="Семиклассница спасла маму и незнакомого парня после падения автобуса с моста">Семиклассница спасла маму и незнакомого парня после падения автобуса с моста</a></h2>
+					<h2 class="blog-category-post-title"><a href="#" title="Семиклассница спасла маму и незнакомого парня после падения автобуса с моста">Семиклассница спасла маму и незнакомого парня после падения автобуса с моста</a></h2>
 					<div class="blog-category-post-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/the-country-waits-as-coup-rumours-grow/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:51:05+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:51:05+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
 					<div class="blog-category-text-content">
-						<p>13-летнюю Кристину Баранову из Забайкалья представят к награде «За честь и мужество» <a href="https://demo.themespiral.com/timesnews/2019/04/11/the-country-waits-as-coup-rumours-grow/" class="more-link">читать далее</a></p>
+						<p>13-летнюю Кристину Баранову из Забайкалья представят к награде «За честь и мужество» <a href="#" class="more-link">читать далее</a></p>
 						
 					</div><!-- .blog-category-text-content -->
 				</div><!-- .list-category-post-content -->
 			</div><!-- .list-category-post -->
 						<div class="blog-category-post">
 									<div class="blog-category-post-thumbnail">
-						<a href="https://demo.themespiral.com/timesnews/2019/04/11/middle-classes-losing-out-to-ultra-rich/" title="Из-за аномально раннего лета в Иркутске тополиный пух полетел на месяц раньше"><img width="765" height="500" src="images/topol.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+						<a href="#" title="Из-за аномально раннего лета в Иркутске тополиный пух полетел на месяц раньше"><img width="765" height="500" src="images/topol.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 					 </div><!-- .blog-category-post-thumbnail -->
 								<div class="blog-category-post-content">
 					<div class="blog-category-post-meta">
 						
 		<span class="cat-links">
 		
-			<a class="category-color-13" href="https://demo.themespiral.com/timesnews/category/флора/">Флора</a>
+			<a class="category-color-13" href="#">Флора</a>
 		
-			<a class="category-color-20" href="https://demo.themespiral.com/timesnews/category/Статьи/">Статьи</a>
+			<a class="category-color-20" href="#">Статьи</a>
 				</span>
 						</div><!-- .blog-category-post-meta -->
-					<h2 class="blog-category-post-title"><a href="https://demo.themespiral.com/timesnews/2019/04/11/middle-classes-losing-out-to-ultra-rich/" title="Из-за аномально раннего лета в Иркутске тополиный пух полетел на месяц раньше">Из-за аномально раннего лета в Иркутске тополиный пух полетел на месяц раньше</a></h2>
+					<h2 class="blog-category-post-title"><a href="#" title="Из-за аномально раннего лета в Иркутске тополиный пух полетел на месяц раньше">Из-за аномально раннего лета в Иркутске тополиный пух полетел на месяц раньше</a></h2>
 					<div class="blog-category-post-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.themespiral.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.themespiral.com/timesnews/2019/04/11/middle-classes-losing-out-to-ultra-rich/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:46:24+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:46:24+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
 					<div class="blog-category-text-content">
-						<p> В этом году лето в Иркутске наступило на месяц быстрее, чем обычно, рассказывает замначальника иркутского Гидрометцентра Юлия Янькова. С конца апреля градусник уверенно показывал +10 градусов и выше<a href="https://demo.themespiral.com/timesnews/2019/04/11/middle-classes-losing-out-to-ultra-rich/" class="more-link">читать далее</a></p>
+						<p> В этом году лето в Иркутске наступило на месяц быстрее, чем обычно, рассказывает замначальника иркутского Гидрометцентра Юлия Янькова. С конца апреля градусник уверенно показывал +10 градусов и выше<a href="#" class="more-link">читать далее</a></p>
 						
 					</div><!-- .blog-category-text-content -->
 				</div><!-- .list-category-post-content -->
 			</div><!-- .list-category-post -->
 						<div class="blog-category-post">
 									<div class="blog-category-post-thumbnail">
-						<a href="https://demo.themespiral.com/timesnews/2019/04/11/new-duck-species-found-in-philippines/" title="В Крaснoдaре двое мужчин спасли мaлыша, который чуть не упaл с кaрнизa второго этажа"><img width="765" height="500" src="images/reb.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+						<a href="#" title="В Крaснoдaре двое мужчин спасли мaлыша, который чуть не упaл с кaрнизa второго этажа"><img width="765" height="500" src="images/reb.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 					 </div><!-- .blog-category-post-thumbnail -->
 								<div class="blog-category-post-content">
 					<div class="blog-category-post-meta">
 						
 		<span class="cat-links">
 		
-			<a class="category-color-4" href="https://demo.SNEWS38.com/timesnews/category/фауна/">Общество</a>
+			<a class="category-color-4" href="#">Общество</a>
 		
-			<a class="category-color-20" href="https://demo.SNEWS38.com/timesnews/category/Статьи/">Статьи</a>
+			<a class="category-color-20" href="#">Статьи</a>
 				</span>
 						</div><!-- .blog-category-post-meta -->
-					<h2 class="blog-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/11/new-duck-species-found-in-philippines/" title="В Крaснoдaре двое мужчин спасли мaлыша, который чуть не упaл с кaрнизa второго этажа">В Иркутске двое мужчин спасли мaлыша, который чуть не упaл с кaрнизa второго этажа</a></h2>
+					<h2 class="blog-category-post-title"><a href="#" title="В Крaснoдaре двое мужчин спасли мaлыша, который чуть не упaл с кaрнизa второго этажа">В Иркутске двое мужчин спасли мaлыша, который чуть не упaл с кaрнизa второго этажа</a></h2>
 					<div class="blog-category-post-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/11/new-duck-species-found-in-philippines/" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:43:41+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-11T08:43:41+00:00">Мая 25, 2020</time></a></span>					</div><!-- .blog-category-post-meta -->
 					<div class="blog-category-text-content">
-						<p>Ребенок вылез из окна, пока его мать спала <a href="https://demo.SNEWS38.com/timesnews/2019/04/11/new-duck-species-found-in-philippines/" class="more-link">читать далее</a></p>
+						<p>Ребенок вылез из окна, пока его мать спала <a href="#" class="more-link">читать далее</a></p>
 						
 					</div><!-- .blog-category-text-content -->
 				</div><!-- .list-category-post-content -->
@@ -519,16 +519,16 @@
 			@foreach($news as $news)
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="" ><img width="765" height="500" src="{{$news -> img_url}}" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" />{{$news -> title}} </a>
+							<a href="#" ><img width="765" height="500" src="{{$news -> img_url}}" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" />{{$news -> title}} </a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 	
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/new-year-cleaning-up-after-the-worlds-largest-human-gathering/" title="{{$news -> description}}">{{$news -> description}}</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="{{$news -> description}}">{{$news -> description}}</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/new-year-cleaning-up-after-the-worlds-largest-human-gathering/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T09:42:21+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T09:42:21+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 				
@@ -547,76 +547,76 @@
 		
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" title="Наука на карантине: как ученые справляются с работой в условиях самоизоляции"><img width="765" height="500" src="images/nauka.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Наука на карантине: как ученые справляются с работой в условиях самоизоляции"><img width="765" height="500" src="images/nauka.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-32" href="https://demo.SNEWS38.com/timesnews/category/global/">Global</a>
+			<a class="category-color-32" href="#">Global</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" title="Наука на карантине: как ученые справляются с работой в условиях самоизоляции">Наука на карантине: как ученые справляются с работой в условиях самоизоляции</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Наука на карантине: как ученые справляются с работой в условиях самоизоляции">Наука на карантине: как ученые справляются с работой в условиях самоизоляции</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:21:31+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:21:31+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/tech-tent-inside-techs-trade-война/" title="Памятник пожарным-спасателям установили в Ангарске"><img width="765" height="500" src="images/poj.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Памятник пожарным-спасателям установили в Ангарске"><img width="765" height="500" src="images/poj.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-32" href="https://demo.SNEWS38.com/timesnews/category/global/">Global</a>
+			<a class="category-color-32" href="#">Global</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/tech-tent-inside-techs-trade-война/" title="Памятник пожарным-спасателям установили в Ангарске">Памятник пожарным-спасателям установили в Ангарске</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Памятник пожарным-спасателям установили в Ангарске">Памятник пожарным-спасателям установили в Ангарске</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/tech-tent-inside-techs-trade-война/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:20:34+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:20:34+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/why-do-humans-drink-фауна-milk/" title="В программу кинофестиваля «Человек и природа» вошли 27 фильмов"><img width="765" height="500" src="images/kino.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="В программу кинофестиваля «Человек и природа» вошли 27 фильмов"><img width="765" height="500" src="images/kino.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-32" href="https://demo.SNEWS38.com/timesnews/category/global/">Global</a>
+			<a class="category-color-32" href="#">Global</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/why-do-humans-drink-фауна-milk/" title="В программу кинофестиваля «Человек и природа» вошли 27 фильмов">В программу кинофестиваля «Человек и природа» вошли 27 фильмов</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="В программу кинофестиваля «Человек и природа» вошли 27 фильмов">В программу кинофестиваля «Человек и природа» вошли 27 фильмов</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/why-do-humans-drink-фауна-milk/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:15:02+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:15:02+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/greenlands-rapidly-vanishing-glaciers/" title="«Новая среда»: онлайн-проект для предпринимателей"><img width="765" height="500" src="images/pred.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="«Новая среда»: онлайн-проект для предпринимателей"><img width="765" height="500" src="images/pred.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-32" href="https://demo.SNEWS38.com/timesnews/category/global/">Global</a>
+			<a class="category-color-32" href="#">Global</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/greenlands-rapidly-vanishing-glaciers/" title="«Новая среда»: онлайн-проект для предпринимателей">«Новая среда»: онлайн-проект для предпринимателей</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="«Новая среда»: онлайн-проект для предпринимателей">«Новая среда»: онлайн-проект для предпринимателей</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/greenlands-rapidly-vanishing-glaciers/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:13:22+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:13:22+00:00">Июня 4, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 							</div><!-- .list-category-posts-wrap -->
 		</div><!-- .list-category-posts-half -->
 
-		</section><!-- .widget_list_category_posts --><section id="media_image-3" class="widget widget_media_image"><a href="https://SNEWS38.com/themes/timesnews/"><img width="336" height="280" src="images/advclear.jpg" class="image wp-image-476  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="images/advclear.jpg 336w, advclear.jpg 300w" sizes="(max-width: 336px) 100vw, 336px" /></a></section>
+		</section><!-- .widget_list_category_posts --><section id="media_image-3" class="widget widget_media_image"><a href="#"><img width="336" height="280" src="images/advclear.jpg" class="image wp-image-476  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="images/advclear.jpg 336w, advclear.jpg 300w" sizes="(max-width: 336px) 100vw, 336px" /></a></section>
 					</div>
 				</aside><!-- .left-widget-area -->
 
@@ -639,70 +639,70 @@
 		
 			<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/how-much-of-your-body-is-actually-you/" title="Отец и четверо детей погибли при пожаре в Зиминском районе"><img width="765" height="500" src="images/pojarrr.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Отец и четверо детей погибли при пожаре в Зиминском районе"><img width="765" height="500" src="images/pojarrr.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-33" href="https://demo.SNEWS38.com/timesnews/category/worklife/">Worklife</a>
+			<a class="category-color-33" href="#">Worklife</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/how-much-of-your-body-is-actually-you/" title="Отец и четверо детей погибли при пожаре в Зиминском районе">Отец и четверо детей погибли при пожаре в Зиминском районе</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Отец и четверо детей погибли при пожаре в Зиминском районе">Отец и четверо детей погибли при пожаре в Зиминском районе</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/how-much-of-your-body-is-actually-you/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:39:38+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:39:38+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" title="Иркутянин избил предпринимателя и похитил медицинские маски на 31 миллион рублей"><img width="765" height="500" src="images/maski.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Иркутянин избил предпринимателя и похитил медицинские маски на 31 миллион рублей"><img width="765" height="500" src="images/maski.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-33" href="https://demo.SNEWS38.com/timesnews/category/worklife/">Worklife</a>
+			<a class="category-color-33" href="#">Worklife</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" title="Иркутянин избил предпринимателя и похитил медицинские маски на 31 миллион рублей">Иркутянин избил предпринимателя и похитил медицинские маски на 31 миллион рублей</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Иркутянин избил предпринимателя и похитил медицинские маски на 31 миллион рублей">Иркутянин избил предпринимателя и похитил медицинские маски на 31 миллион рублей</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:37:50+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:37:50+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" title="22-летнюю девушку сбили насмерть в Ново-Ленино"><img width="765" height="500" src="images/dtppp.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="22-летнюю девушку сбили насмерть в Ново-Ленино"><img width="765" height="500" src="images/dtppp.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-33" href="https://demo.SNEWS38.com/timesnews/category/worklife/">Worklife</a>
+			<a class="category-color-33" href="#">Worklife</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" title="22-летнюю девушку сбили насмерть в Ново-Ленино">22-летнюю девушку сбили насмерть в Ново-Ленино</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="22-летнюю девушку сбили насмерть в Ново-Ленино">22-летнюю девушку сбили насмерть в Ново-Ленино</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:35:33+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:35:33+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" title="Стобалльники ЕГЭ делятся секретами успеха при сдаче экзаменов"><img width="765" height="500" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-765x500.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Стобалльники ЕГЭ делятся секретами успеха при сдаче экзаменов"><img width="765" height="500" src="wp-content/uploads/sites/10/2019/09/beach-landscape-sea-coast-water-sand-638216-23-765x500.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-33" href="https://demo.SNEWS38.com/timesnews/category/worklife/">Worklife</a>
+			<a class="category-color-33" href="#">Worklife</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" title="Стобалльники ЕГЭ делятся секретами успеха при сдаче экзаменов">Стобалльники ЕГЭ делятся секретами успеха при сдаче экзаменов</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Стобалльники ЕГЭ делятся секретами успеха при сдаче экзаменов">Стобалльники ЕГЭ делятся секретами успеха при сдаче экзаменов</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:33:59+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:33:59+00:00">Июня 5, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 		
@@ -717,59 +717,59 @@
 		
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam/" title="Проверка финансовой деятельности пройдет в МУП «Иркутскавтодор»"><img width="765" height="500" src="images/autod.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Проверка финансовой деятельности пройдет в МУП «Иркутскавтодор»"><img width="765" height="500" src="images/autod.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-8" href="https://demo.SNEWS38.com/timesnews/category/Бизнес/">Бизнес</a>
+			<a class="category-color-8" href="#">Бизнес</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam/" title="Проверка финансовой деятельности пройдет в МУП «Иркутскавтодор»">Проверка финансовой деятельности пройдет в МУП «Иркутскавтодор»</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Проверка финансовой деятельности пройдет в МУП «Иркутскавтодор»">Проверка финансовой деятельности пройдет в МУП «Иркутскавтодор»</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T07:48:58+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T07:48:58+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse/" title="Иркутянина осудили за посредничество в передаче взятки директору лесхоза"><img width="765" height="500" src="images/sud.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Иркутянина осудили за посредничество в передаче взятки директору лесхоза"><img width="765" height="500" src="images/sud.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-8" href="https://demo.SNEWS38.com/timesnews/category/Бизнес/">Бизнес</a>
+			<a class="category-color-8" href="#">Бизнес</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse/" title="Иркутянина осудили за посредничество в передаче взятки директору лесхоза">Иркутянина осудили за посредничество в передаче взятки директору лесхоза</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Иркутянина осудили за посредничество в передаче взятки директору лесхоза">Иркутянина осудили за посредничество в передаче взятки директору лесхоза</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T07:46:26+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T07:46:26+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 								<div class="list-category-post">
 											<div class="list-category-post-thumbnail">
-							<a href="https://demo.SNEWS38.com/timesnews/2019/04/07/hello-world-2/" title="Почему бизнес помогает в борьбе с коронавирусом: интервью с Тимофеем Кургиным"><img width="765" height="500" src="images/biz.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
+							<a href="#" title="Почему бизнес помогает в борьбе с коронавирусом: интервью с Тимофеем Кургиным"><img width="765" height="500" src="images/biz.jpg" class="attachment-timesnews-blog size-timesnews-blog wp-post-image" alt="" /></a>
 						 </div><!-- .list-category-post-thumbnail -->
 										<div class="list-category-post-content">
 						<div class="list-category-post-meta">
 							
 		<span class="cat-links">
 		
-			<a class="category-color-8" href="https://demo.SNEWS38.com/timesnews/category/Бизнес/">Бизнес</a>
+			<a class="category-color-8" href="#">Бизнес</a>
 				</span>
 							</div><!-- .list-category-post-meta -->
-						<h2 class="list-category-post-title"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/hello-world-2/" title="Почему бизнес помогает в борьбе с коронавирусом: интервью с Тимофеем Кургиным">Почему бизнес помогает в борьбе с коронавирусом: интервью с Тимофеем Кургиным</a></h2>
+						<h2 class="list-category-post-title"><a href="#" title="Почему бизнес помогает в борьбе с коронавирусом: интервью с Тимофеем Кургиным">Почему бизнес помогает в борьбе с коронавирусом: интервью с Тимофеем Кургиным</a></h2>
 						<div class="list-category-post-meta">
-							<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/04/07/hello-world-2/" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T06:07:36+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
+							<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-04-07T06:07:36+00:00">Июня 1, 2020</time></a></span>						</div><!-- .list-category-post-meta -->
 					</div><!-- .list-category-post-content -->
 				</div><!-- .list-category-post -->
 							</div><!-- .list-category-posts-wrap -->
 		</div><!-- .list-category-posts-half -->
 
-		</section><!-- .widget_list_category_posts --><section id="media_image-4" class="widget widget_media_image"><a href="https://SNEWS38.com/themes/timesnews/"><img width="336" height="280" src="images/advclear.jpg" class="image wp-image-477  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="images/advclear.jpg 336w, images/advclear.jpg 300w" sizes="(max-width: 336px) 100vw, 336px" /></a></section><section id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-social-links-container"><ul id="menu-social-links" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a href="https://facebook.com">facebook</a></li>
+		</section><!-- .widget_list_category_posts --><section id="media_image-4" class="widget widget_media_image"><a href="#"><img width="336" height="280" src="images/advclear.jpg" class="image wp-image-477  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" srcset="images/advclear.jpg 336w, images/advclear.jpg 300w" sizes="(max-width: 336px) 100vw, 336px" /></a></section><section id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-social-links-container"><ul id="menu-social-links" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a href="https://facebook.com">facebook</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a href="https://twitter.com">twitter</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a href="https://www.pinterest.com">pinterest</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a href="https://www.linkedin.com">linkedin</a></li>
@@ -782,48 +782,48 @@
 		
 						<article class="post post-325 type-post status-publish format-standard has-post-thumbnail hentry category-worklife tag-health entry">
 									<div class="post-thumbnail">
-						<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/how-much-of-your-body-is-actually-you/" title="Первый случай коронавируса подтвержден в Саянске"><img width="150" height="150" src="images/kor.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
+						<a href="#" title="Первый случай коронавируса подтвержден в Саянске"><img width="150" height="150" src="images/kor.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
 					</div>
 								<header class="entry-header">
 					<div class="entry-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/how-much-of-your-body-is-actually-you/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:39:38+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
-					<h2 class="entry-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/how-much-of-your-body-is-actually-you/">Первый случай коронавируса подтвержден в Саянске</a></h2>				</header><!-- .entry-header -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:39:38+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
+					<h2 class="entry-title"><a href="#">Первый случай коронавируса подтвержден в Саянске</a></h2>				</header><!-- .entry-header -->
 			</article><!-- #post -->
 						<article class="post post-323 type-post status-publish format-standard has-post-thumbnail hentry category-worklife entry">
 									<div class="post-thumbnail">
-						<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" title="В Усть-Ордынском задержали пьяного водителя, пытавшегося убежать от полицейских"><img width="150" height="150" src=".jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
+						<a href="#" title="В Усть-Ордынском задержали пьяного водителя, пытавшегося убежать от полицейских"><img width="150" height="150" src=".jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
 					</div>
 								<header class="entry-header">
 					<div class="entry-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:37:50+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
-					<h2 class="entry-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/the-key-to-the-origin-of-the-americas/">В Усть-Ордынском задержали пьяного водителя, пытавшегося убежать от полицейских</a></h2>				</header><!-- .entry-header -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:37:50+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
+					<h2 class="entry-title"><a href="#">В Усть-Ордынском задержали пьяного водителя, пытавшегося убежать от полицейских</a></h2>				</header><!-- .entry-header -->
 			</article><!-- #post -->
 						<article class="post post-321 type-post status-publish format-standard has-post-thumbnail hentry category-worklife entry">
 									<div class="post-thumbnail">
-						<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" title="Четырехлетний мальчик погиб на пожаре в поселке Белореченский"><img width="150" height="150" src="images/pojar.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
+						<a href="#" title="Четырехлетний мальчик погиб на пожаре в поселке Белореченский"><img width="150" height="150" src="images/pojar.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
 					</div>
 								<header class="entry-header">
 					<div class="entry-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:35:33+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
-					<h2 class="entry-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/arian-grande-claims-forever-21-stole-name/">Четырехлетний мальчик погиб на пожаре в поселке Белореченский</a></h2>				</header><!-- .entry-header -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:35:33+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
+					<h2 class="entry-title"><a href="#">Четырехлетний мальчик погиб на пожаре в поселке Белореченский</a></h2>				</header><!-- .entry-header -->
 			</article><!-- #post -->
 						<article class="post post-315 type-post status-publish format-standard has-post-thumbnail hentry category-worklife entry">
 									<div class="post-thumbnail">
-						<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" title="В Бурятии на горном озере спасли шестерых рыбаков"><img width="150" height="150" src="images/rybaky.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
+						<a href="#" title="В Бурятии на горном озере спасли шестерых рыбаков"><img width="150" height="150" src="images/rybaky.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
 					</div>
 								<header class="entry-header">
 					<div class="entry-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:33:59+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
-					<h2 class="entry-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/what-to-look-out-for-as-moto-race-returns/">В Бурятии на горном озере спасли шестерых рыбаков</a></h2>				</header><!-- .entry-header -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:33:59+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
+					<h2 class="entry-title"><a href="#">В Бурятии на горном озере спасли шестерых рыбаков</a></h2>				</header><!-- .entry-header -->
 			</article><!-- #post -->
 						<article class="post post-306 type-post status-publish format-standard has-post-thumbnail hentry category-global entry">
 									<div class="post-thumbnail">
-						<a href="https://demo.SNEWS38.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" title="В нескольких домах Иркутска отключат горячую воду до вечера 5 июня"><img width="150" height="150" src=".jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
+						<a href="#" title="В нескольких домах Иркутска отключат горячую воду до вечера 5 июня"><img width="150" height="150" src=".jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></a>
 					</div>
 								<header class="entry-header">
 					<div class="entry-meta">
-						<span class="author vcard"> <a class="url fn n" href="https://demo.SNEWS38.com/timesnews/author/demo_spiral18/">SNEWS38</a> </span><span class="posted-on"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:21:31+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
-					<h2 class="entry-title"><a href="https://demo.SNEWS38.com/timesnews/2019/09/04/banks-and-shops-roll-out-new-anti-fraud-measures/">В нескольких домах Иркутска отключат горячую воду до вечера 5 июня</a></h2>				</header><!-- .entry-header -->
+						<span class="author vcard"> <a class="url fn n" href="#">SNEWS38</a> </span><span class="posted-on"><a href="#" rel="bookmark"><time class="entry-date published" datetime="2019-09-04T08:21:31+00:00">Июня 4, 2020</time></a></span>					</div><!-- .entry-meta -->
+					<h2 class="entry-title"><a href="#">В нескольких домах Иркутска отключат горячую воду до вечера 5 июня</a></h2>				</header><!-- .entry-header -->
 			</article><!-- #post -->
 					</div><!-- .recent-posts-wrap -->
 		</section><!-- widget-latest-posts -->
@@ -836,74 +836,75 @@
 		</div><!-- .site-content-cell -->
 	</div><!-- #content -->
 	
-	<footer id="colophon" class="site-footer" role="contentinfo">
+	
+		<footer id="colophon" class="site-footer" role="contentinfo">
 
 			
 		<div class="copyright-area">
 			<div class="wrap">
 										<nav class="footer-menu-container" role="navigation" aria-label="Footer Menu">
 
-							<ul class="footer-menu"><li id="menu-item-376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-376"><a href="index.html#">Иркутск</a>
+							<ul class="footer-menu"><li id="menu-item-376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-376"><a href="#">Иркутск</a>
 <ul class="sub-menu">
-	<li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-340 category-color-3"><a href="https://demo.SNEWS38.com/timesnews/category/africa/">Ангарск</a></li>
-	<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-343 category-color-6"><a href="https://demo.SNEWS38.com/timesnews/category/asia/">Шелехов</a></li>
-	<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349 category-color-10"><a href="https://demo.SNEWS38.com/timesnews/category/europe/">Братск</a></li>
-	<li id="menu-item-361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-361 category-color-16"><a href="https://demo.SNEWS38.com/timesnews/category/middle-east/">Тулун</a></li>
-	<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356 category-color-32"><a href="https://demo.SNEWS38.com/timesnews/category/global/">Черемхово</a></li>
-	<li id="menu-item-371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-371 category-color-22"><a href="https://demo.SNEWS38.com/timesnews/category/война/">Нижнеудинск</a></li>
+	<li id="menu-item-340" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-340 category-color-3"><a href="#">Ангарск</a></li>
+	<li id="menu-item-343" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-343 category-color-6"><a href="#">Шелехов</a></li>
+	<li id="menu-item-349" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-349 category-color-10"><a href="#">Братск</a></li>
+	<li id="menu-item-361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-361 category-color-16"><a href="#">Тулун</a></li>
+	<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356 category-color-32"><a href="#">Черемхово</a></li>
+	<li id="menu-item-371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-371 category-color-22"><a href="#">Нижнеудинск</a></li>
 </ul>
 </li>
-<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-377"><a href="index.html#">Бизнес</a>
+<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-377"><a href="#">Бизнес</a>
 <ul class="sub-menu">
-	<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346 category-color-9"><a href="https://demo.SNEWS38.com/timesnews/category/classify/">Дела</a></li>
-	<li id="menu-item-345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-345 category-color-8"><a href="https://demo.SNEWS38.com/timesnews/category/Бизнес/">Мероприятия</a></li>
-	<li id="menu-item-360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360 category-color-41"><a href="https://demo.SNEWS38.com/timesnews/category/markets/">Будущее</a></li>
-	<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358 category-color-14"><a href="https://demo.SNEWS38.com/timesnews/category/life/">Жизнь</a></li>
-	<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-350 category-color-43"><a href="https://demo.SNEWS38.com/timesnews/category/fashion/">Мода</a></li>
-	<li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351 category-color-11"><a href="https://demo.SNEWS38.com/timesnews/category/горячее/">Горячее</a></li>
+	<li id="menu-item-346" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-346 category-color-9"><a href="#">Дела</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-345 category-color-8"><a href="#">Мероприятия</a></li>
+	<li id="menu-item-360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360 category-color-41"><a href="#">Будущее</a></li>
+	<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358 category-color-14"><a href="#">Жизнь</a></li>
+	<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-350 category-color-43"><a href="#">Мода</a></li>
+	<li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351 category-color-11"><a href="#">Горячее</a></li>
 </ul>
 </li>
-<li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-378"><a href="index.html#">Здоровье</a>
+<li id="menu-item-378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-378"><a href="#">Здоровье</a>
 <ul class="sub-menu">
-	<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352 category-color-42"><a href="https://demo.SNEWS38.com/timesnews/category/food/">Еда</a></li>
-	<li id="menu-item-357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-357 category-color-35"><a href="https://demo.SNEWS38.com/timesnews/category/health/">Жизнь</a></li>
-	<li id="menu-item-372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-372 category-color-37"><a href="https://demo.SNEWS38.com/timesnews/category/weather/">Погода</a></li>
-	<li id="menu-item-369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-369 category-color-38"><a href="https://demo.SNEWS38.com/timesnews/category/travel/">Путешествия</a></li>
-	<li id="menu-item-362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362 category-color-17"><a href="https://demo.SNEWS38.com/timesnews/category/nature/">Природа</a></li>
-	<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354 category-color-13"><a href="https://demo.SNEWS38.com/timesnews/category/флора/">Животные</a></li>
+	<li id="menu-item-352" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-352 category-color-42"><a href="#">Еда</a></li>
+	<li id="menu-item-357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-357 category-color-35"><a href="#">Жизнь</a></li>
+	<li id="menu-item-372" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-372 category-color-37"><a href="#">Погода</a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-369 category-color-38"><a href="#">Путешествия</a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362 category-color-17"><a href="#">Природа</a></li>
+	<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354 category-color-13"><a href="#">Животные</a></li>
 </ul>
 </li>
-<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-379"><a href="index.html#">Развлечения</a>
+<li id="menu-item-379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-379"><a href="#">Развлечения</a>
 <ul class="sub-menu">
-	<li id="menu-item-363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-363 category-color-39"><a href="https://demo.SNEWS38.com/timesnews/category/news-tv/">Афиша</a></li>
-	<li id="menu-item-359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359 category-color-15"><a href="https://demo.SNEWS38.com/timesnews/category/local-news/">Местное</a></li>
-	<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-348 category-color-31"><a href="https://demo.SNEWS38.com/timesnews/category/entertainment/">Развлечения</a></li>
-	<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347 category-color-36"><a href="https://demo.SNEWS38.com/timesnews/category/culture/">Культура</a></li>
-	<li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-342 category-color-5"><a href="https://demo.SNEWS38.com/timesnews/category/arts-culture/">Исскуство</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-363 category-color-39"><a href="#">Афиша</a></li>
+	<li id="menu-item-359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359 category-color-15"><a href="#">Местное</a></li>
+	<li id="menu-item-348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-348 category-color-31"><a href="#">Развлечения</a></li>
+	<li id="menu-item-347" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-347 category-color-36"><a href="#">Культура</a></li>
+	<li id="menu-item-342" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-342 category-color-5"><a href="#">Исскуство</a></li>
 </ul>
 </li>
-<li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-380"><a href="index.html#">Спорт</a>
+<li id="menu-item-380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-380"><a href="#">Спорт</a>
 <ul class="sub-menu">
-	<li id="menu-item-375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-375 category-color-24"><a href="https://demo.SNEWS38.com/timesnews/category/x-games/">Бокс</a></li>
-	<li id="menu-item-368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368 category-color-21"><a href="https://demo.SNEWS38.com/timesnews/category/Плавание/">Плавание</a></li>
-	<li id="menu-item-366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-366 category-color-19"><a href="https://demo.SNEWS38.com/timesnews/category/Спорт/">Спорт</a></li>
-	<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353 category-color-12"><a href="https://demo.SNEWS38.com/timesnews/category/Футбол/">Футбол</a></li>
-	<li id="menu-item-344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-344 category-color-7"><a href="https://demo.SNEWS38.com/timesnews/category/Атлетика/">Атлетика</a></li>
-	<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339 category-color-2"><a href="https://demo.SNEWS38.com/timesnews/category/adventures/">Баскетбол</a></li>
+	<li id="menu-item-375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-375 category-color-24"><a href="#">Бокс</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-368 category-color-21"><a href="#">Плавание</a></li>
+	<li id="menu-item-366" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-366 category-color-19"><a href="#">Спорт</a></li>
+	<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353 category-color-12"><a href="#">Футбол</a></li>
+	<li id="menu-item-344" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-344 category-color-7"><a href="#">Атлетика</a></li>
+	<li id="menu-item-339" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-339 category-color-2"><a href="#">Баскетбол</a></li>
 </ul>
 </li>
-<li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381"><a href="index.html#">Технологии</a>
+<li id="menu-item-381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-381"><a href="#">Технологии</a>
 <ul class="sub-menu">
-	<li id="menu-item-364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-364 category-color-18"><a href="https://demo.SNEWS38.com/timesnews/category/science/">Наука</a></li>
-	<li id="menu-item-373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-373 category-color-33"><a href="https://demo.SNEWS38.com/timesnews/category/worklife/">Разработки</a></li>
-	<li id="menu-item-374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-374 category-color-23"><a href="https://demo.SNEWS38.com/timesnews/category/world/">Мир</a></li>
-	<li id="menu-item-365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-365 category-color-40"><a href="https://demo.SNEWS38.com/timesnews/category/special-reports/">Изобретения</a></li>
+	<li id="menu-item-364" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-364 category-color-18"><a href="#">Наука</a></li>
+	<li id="menu-item-373" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-373 category-color-33"><a href="#">Разработки</a></li>
+	<li id="menu-item-374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-374 category-color-23"><a href="#">Мир</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-365 category-color-40"><a href="#">Изобретения</a></li>
 </ul>
 </li>
 </ul>
 						</nav>
 										
-												
+											
 									</div><!-- .wrap -->
 		</div><!-- .copyright-area -->
 	</footer><!-- #colophon -->
@@ -912,7 +913,7 @@
 
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/demo.SNEWS38.com\/timesnews\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/demo.themespiral.com\/timesnews\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js@ver=5.1.9'></script>
@@ -932,3 +933,4 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/demo.SNEWS38.com\/timesnews\/wp-js
 </html>
 
 @endsection('content')
+
